@@ -1,0 +1,16 @@
+body{
+    margin: 0 auto;
+}
+
+header{
+    background-color: aquamarine;
+}
+
+header nav{
+    float: right;
+}
+
+header nav ul li{
+    display: inline-block;
+    list-style: none;
+}
