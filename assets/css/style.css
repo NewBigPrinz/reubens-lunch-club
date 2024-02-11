@@ -10,6 +10,8 @@ header{
     background-color: #b8d4e9;
     display: block;
     height: 100px;
+    margin: 0;
+    overflow: hidden;
 }
 
 #logo{
@@ -38,11 +40,16 @@ header{
 }
 
 #hero-image{
-    display: block;
+    display: inline-block;
     background: url("/assets/images/food-3808953_1920.jpg") no-repeat center center;
     height: 80vh;
+    width: 100%;
     overflow: hidden;
     clear: both;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #about-us{
@@ -51,4 +58,9 @@ header{
 
 #menu-header{
     text-align: center;
+}
+
+#tagline{
+    background-color: yellow;
+    margin: auto;
 }
