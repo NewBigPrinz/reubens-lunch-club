@@ -7,15 +7,19 @@
 }
 
 header{
-    background-color: aquamarine;
+    background-color: #4D89B9;
     border: 1px solid black;
     display: block;
+    height: 100px;
 }
 
 #logo{
     float: left;
     font-family: 'Petit Formal Script';
-    font-size: 250%
+    font-size: 250%;
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
 }
 
 #nav-links{
