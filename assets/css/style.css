@@ -1,10 +1,7 @@
-body{
-    margin: 0 auto;
-}
-
 header{
     background-color: aquamarine;
     clear: both;
+    border: black 1px solid;
 }
 
 #logo{
@@ -21,3 +18,10 @@ header{
     margin-right: 20px;
 }
 
+#logo, #nav-links{
+    line-height: 75px;
+}
+
+#hero-image{
+    display: block;
+}
