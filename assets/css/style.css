@@ -1,7 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
 header{
     background-color: aquamarine;
-    clear: both;
-    border: black 1px solid;
+    border: 1px solid black;
+    display: block;
 }
 
 #logo{
@@ -18,10 +24,15 @@ header{
     margin-right: 20px;
 }
 
+
 #logo, #nav-links{
     line-height: 75px;
 }
 
 #hero-image{
     display: block;
+    background: url("/assets/images/food-3808953_1920.jpg") no-repeat center center;
+    height: 80vh;
+    overflow: hidden;
+    clear: both;
 }
