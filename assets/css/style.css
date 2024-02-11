@@ -6,11 +6,15 @@ header{
     background-color: aquamarine;
 }
 
-header nav{
-    float: right;
+#logo{
+    float: left;
 }
 
-header nav ul li{
-    display: inline-block;
+#nav-links{
     list-style: none;
+}
+
+#nav-links li{
+    float: right;
+    margin-right: 20px;
 }
