@@ -87,3 +87,16 @@ footer{
     display: block;
     font-size: 3em;
 }
+
+.day-info{
+    border:  #e9b8d4 solid 2px;
+}
+
+.day-info:nth-child(odd){
+    background-color: #fff ;
+}
+
+.day-info:nth-child(even){
+    background-color: #b8d4e9;
+}
+
