@@ -31,3 +31,5 @@ https://www.linearity.io/blog/font-pairing/ -- Fonts
 https://itsfoss.com/markdown-nested-lists/ -- Markdown
 https://www.w3schools.com/csS/css_align.asp -- Centering a div
 https://pixabay.com/photos/food-sandwich-sardine-bread-oil-3808953/ -- Hero Image link
+https://getbootstrap.com/docs/4.0/layout/grid/ -- BS Grid
+https://www.w3schools.com/icons/fontawesome_icons_intro.asp -- FA import

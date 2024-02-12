@@ -82,3 +82,8 @@ footer{
     background-color: black;
     color: #b8d4e9;
 }
+
+.mission-statement i{
+    display: block;
+    font-size: 3em;
+}
