@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Petit+Formal+Script|Open+Sans&display=swap');
 
 *{
     margin:0;
@@ -26,6 +26,7 @@ header{
 #nav-links{
     list-style: none;
     float: right;
+    font-family: 'Open Sans', sans-serif;
 }
 
 #nav-links li{
@@ -36,7 +37,7 @@ header{
 
 
 #logo, #nav-links{
-    line-height: 75px;
+    line-height: 100px;
 }
 
 #hero-image{
