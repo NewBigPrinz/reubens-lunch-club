@@ -6,6 +6,10 @@
     border:0;
 }
 
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
 header{
     background-color: #b8d4e9;
     display: block;
@@ -69,8 +73,12 @@ header{
     color: #b8d4e9;
 }
 
-h2 {
+h2, h3, h4 {
     font-family: 'Merriweather', 'Times New Roman', serif;
+}
+
+.container{
+    width: 80%
 }
 
 .mission-statement, .day-info {
@@ -86,6 +94,7 @@ footer{
 .mission-statement i{
     display: block;
     font-size: 3em;
+    padding: 10px auto;
 }
 
 
@@ -108,4 +117,21 @@ footer{
 #menu-times{
     margin: 0 auto;
     border: black solid 1px;
+}
+
+.option-list{
+    display: inline-block;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+}
+
+.day-info p{
+    margin: 0;
+}
+
+.menu-picture{
+    display: block;
+    width: 70%;
+    padding: 0 auto;
 }
