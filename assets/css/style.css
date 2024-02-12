@@ -76,3 +76,9 @@ h2 {
 .mission-statement, .day-info {
     border: black solid 1px;
 }
+
+footer{
+    height: 250px;
+    background-color: black;
+    color: #b8d4e9;
+}
