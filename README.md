@@ -24,3 +24,10 @@ All 3 pages should be navigable from one to the other. There is also the conside
 * Contact
 
 ## Skeleton
+
+
+## Links
+https://www.linearity.io/blog/font-pairing/ -- Fonts
+https://itsfoss.com/markdown-nested-lists/ -- Markdown
+https://www.w3schools.com/csS/css_align.asp -- Centering a div
+https://pixabay.com/photos/food-sandwich-sardine-bread-oil-3808953/ -- Hero Image link

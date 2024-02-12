@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Petit+Formal+Script&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
 
 *{
     margin:0;
@@ -64,6 +64,6 @@ header{
     background-color: black;
     margin: auto;
     padding: 20px;
-    font-family: 'Petit Formal Script';
+    font-family: 'Merriweather';
     color: #b8d4e9;
 }
