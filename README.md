@@ -20,7 +20,7 @@ All 3 pages should be navigable from one to the other. There is also the conside
 
 * Home
 * Recipes
-       + Hortobágyi Palacsinta
+  * Hortobágyi Palacsinta
 * Contact
 
 ## Skeleton
