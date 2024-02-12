@@ -61,6 +61,9 @@ header{
 }
 
 #tagline{
-    background-color: yellow;
+    background-color: black;
     margin: auto;
+    padding: 20px;
+    font-family: 'Petit Formal Script';
+    color: #b8d4e9;
 }
