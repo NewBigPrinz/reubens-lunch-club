@@ -68,3 +68,7 @@ header{
     font-family: 'Merriweather';
     color: #b8d4e9;
 }
+
+h2 {
+    font-family: 'Merriweather', 'Times New Roman', serif;
+}
