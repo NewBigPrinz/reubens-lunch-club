@@ -39,3 +39,4 @@ https://www.w3schools.com/CSSref/sel_nth-child.php -- backgrounds for menu items
 https://mdbootstrap.com/how-to/bootstrap/columns-space/
 https://stackoverflow.com/questions/14510375/how-to-horizontally-align-a-ul-element-to-center
 https://pixabay.com/photos/mexican-food-burrito-mexican-food-2456038/ -- burrito
+https://loremipsum.io/generator/?n=50&t=w -- Placeholder text
