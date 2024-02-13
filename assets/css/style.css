@@ -122,6 +122,8 @@ footer{
 #menu-times{
     margin: 0 auto;
     border: black solid 1px;
+    max-width: 80%;
+    margin-top: 20px;
 }
 
 .option-list{
