@@ -39,7 +39,6 @@ header{
     font-size: 150%;
 }
 
-
 #logo, #nav-links{
     line-height: 100px;
 }
@@ -102,8 +101,6 @@ footer{
     display: block;
     font-size: 3em;
 }
-
-
 
 .day-info{
     border:  #e9b8d4 solid 2px;
