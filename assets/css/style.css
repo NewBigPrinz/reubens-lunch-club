@@ -46,7 +46,7 @@ header{
 
 #hero-image{
     display: inline-block;
-    background: url("/assets/images/food-3808953_1920.jpg") no-repeat center center;
+    background: url("../images/food-3808953_1920.jpg") no-repeat center center;
     height: 80vh;
     width: 100%;
     overflow: hidden;
@@ -75,7 +75,7 @@ header{
     color: #b8d4e9;
 }
 
-h2, h3, h4 {
+h2, h3, h4, h5 {
     font-family: 'Merriweather', 'Times New Roman', serif;
     margin-top: 15px;
 }
