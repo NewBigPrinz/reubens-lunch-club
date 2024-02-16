@@ -14,7 +14,14 @@ body{
     background-color: #b8d4e9;
     height: 100px;
     margin: 0;
-    overflow: hidden;
+}
+
+.navbar-nav {
+    background-color: #b8d4e9;
+    z-index: 1;
+    text-align: right;
+    padding-right: 10px;
+    max-width: 50%;
 }
 
 #logo{
@@ -23,22 +30,6 @@ body{
     margin-left: 20px;
     text-decoration: none;
     color: black;
-}
-
-#nav-links{
-    list-style: none;
-    /*float: right;*/
-    font-family: 'Open Sans', sans-serif;
-}
-
-#nav-links li{
-    float: left;
-    margin-right: 20px;
-    font-size: 150%;
-}
-
-#logo, #nav-links{
-    line-height: 100px;
 }
 
 #hero-image{
@@ -52,6 +43,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 
 #about-us{
@@ -140,13 +132,10 @@ footer{
     max-height: 100px;
 
 }
-
+*/
 @media screen and (max-width: 768px){
     #logo{
         font-size: 200%;
-    }
-    #logo, #nav-links{
-        line-height: 100px;
     }
 }
 
@@ -154,7 +143,10 @@ footer{
     #logo{
         font-size: 150%;
     }
-    #logo, #nav-links{
-        line-height: 100px;
+}
+
+@media screen and (max-width: 576px){
+    #logo{
+        font-size: 100%;
     }
 }
