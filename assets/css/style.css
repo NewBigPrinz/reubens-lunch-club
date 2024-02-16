@@ -18,7 +18,6 @@ body{
 }
 
 #logo{
-    float: left;
     font-family: 'Petit Formal Script';
     font-size: 250%;
     margin-left: 20px;
@@ -140,4 +139,22 @@ footer{
     margin: 0 auto;
     max-height: 100px;
 
+}
+
+@media screen and (max-width: 768px){
+    #logo{
+        font-size: 200%;
+    }
+    #logo, #nav-links{
+        line-height: 100px;
+    }
+}
+
+@media screen and (max-width: 576px){
+    #logo{
+        font-size: 150%;
+    }
+    #logo, #nav-links{
+        line-height: 100px;
+    }
 }

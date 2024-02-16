@@ -45,3 +45,6 @@ https://www.digitalocean.com/community/tutorials/css-display-inline-vs-inline-bl
 https://pixabay.com/photos/vegetables-basket-vegetable-basket-752153/ -- produce
 https://commons.wikimedia.org/wiki/File:Yorkshire_pudding_wrap.jpg -- Link to YW image. Check Wikimedia licence and attribute
 https://commons.wikimedia.org/wiki/File:Chicken_Tikka_Masala.jpg -- Link to masala
+https://github.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4/blob/master/04-BeyondBootstrap/02-styling_our_nav_and_alert/css/style.css -- responsive
+https://www.w3schools.com/css/css3_mediaqueries.asp
+https://getbootstrap.com/docs/5.0/layout/breakpoints/
