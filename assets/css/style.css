@@ -10,9 +10,8 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 
-header{
+.navbar-light{
     background-color: #b8d4e9;
-    display: block;
     height: 100px;
     margin: 0;
     overflow: hidden;
@@ -29,7 +28,7 @@ header{
 
 #nav-links{
     list-style: none;
-    float: right;
+    /*float: right;*/
     font-family: 'Open Sans', sans-serif;
 }
 
