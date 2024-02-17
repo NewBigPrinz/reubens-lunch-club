@@ -150,3 +150,11 @@ footer{
         font-size: 110%;
     }
 }
+
+#address{
+    line-height: 50%;
+}
+
+#map{
+    max-height: 150px;
+}
