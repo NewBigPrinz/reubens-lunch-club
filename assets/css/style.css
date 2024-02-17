@@ -78,7 +78,6 @@ h2, h3, h4, h5 {
 }
 
 footer{
-    height: 250px;
     background-color: black;
     color: #b8d4e9;
 }
@@ -156,5 +155,16 @@ footer{
 }
 
 #map{
+    display: inline-block;
     max-height: 150px;
+}
+
+.footer-box{
+    text-align: center;
+}
+
+@media screen and (max-width: 768px){
+    .footer-box{
+        border-bottom: #b8d4e9 solid 2px;
+    }
 }
