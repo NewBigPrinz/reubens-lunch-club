@@ -27,7 +27,7 @@ body{
 #logo{
     font-family: 'Petit Formal Script';
     font-size: 250%;
-    margin-left: 20px;
+    margin-left: 15px;
     text-decoration: none;
     color: black;
 }
@@ -132,7 +132,7 @@ footer{
     max-height: 100px;
 
 }
-*/
+
 @media screen and (max-width: 768px){
     #logo{
         font-size: 200%;
@@ -147,6 +147,6 @@ footer{
 
 @media screen and (max-width: 576px){
     #logo{
-        font-size: 100%;
+        font-size: 110%;
     }
 }
