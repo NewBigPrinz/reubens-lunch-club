@@ -183,3 +183,7 @@ footer{
         border-bottom: #b8d4e9 solid 2px;
     }
 }
+
+th, td{
+    padding: 0 10px;
+}
