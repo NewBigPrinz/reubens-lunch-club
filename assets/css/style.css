@@ -73,8 +73,16 @@ h2, h3, h4, h5 {
     width: 80%
 }
 
-.mission-statement, .day-info {
-    border: black solid 1px;
+.mission-statement {
+    border:  #e9b8d4 solid 2px;
+}
+
+.mission-statement:nth-child(odd){
+    background-color: #fff ;
+}
+
+.mission-statement:nth-child(even){
+    background-color: #b8d4e9;
 }
 
 footer{
