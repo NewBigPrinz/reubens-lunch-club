@@ -192,7 +192,13 @@ th, td{
     background-color: #e9b8d4;
 }
 
+#price-list > h4{
+    text-align: center;
+}
 
+#price-list table{
+    margin: 0 auto;
+}
 .deli-box{
     text-align: center;
     padding: 0 auto;
