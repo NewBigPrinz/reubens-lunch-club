@@ -27,8 +27,26 @@
             </div>
         </nav>
         <section id="contact">
-        <h2>Contact Us</h2>
-
+        <h2 class="section-header">Contact Us</h2>
+        <form action="https://formdump.codeinstitute.net">
+            <label for="full-name">First Name:</label>
+            <input type="text" id="full-name" name="name" required>
+            <label for="email-address">Email Address:</label>
+            <input type="text" id="email-address" name="email" required>
+            <fieldset>Reason for Contact:
+                <input type="radio" for="reason" name="reason_for_contact" id="catering" required>
+                <label for="catering">Catering</label>
+                <input type="radio" for="reason" name="reason_for_contact" id="feedback">
+                <label for="feedback">Feedback</label>
+                <input type="radio" for="reason" name="reason_for_contact" id="general-query">
+                <label for="general-query">General Query</label>
+            </fieldset>
+            <label for="message">Message:</label>
+            <textarea required></textarea>
+            <button type="reset">Reset</button>
+            <button type="submit">Submit</button>
+        </form>
+        </section>
         <footer>
             <div class="row">
                 <div class="col-sm-12 col-md-6 col-xl-3 footer-box">
